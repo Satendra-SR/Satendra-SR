@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, folks! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/wave.gif" width="30px">
 
 
 ## 🔧 Technologies & Tools
@@ -20,9 +20,11 @@
 ![](https://img.shields.io/badge/Tools-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=22c8c9)
 
 ### DevOps
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=ffb43b)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=ffb43b)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ffb43b)
 ![](https://img.shields.io/badge/Tools-CICD-informational?style=flat&logo=CICD&logoColor=white&color=ffb43b)
+
+<img align="" height='137px' src="https://github-readme-stats.vercel.app/api?username=satendra-sr&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-sr&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 
 <!--
