@@ -26,9 +26,10 @@
 
 
 ## Follow me on social media
-[<img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/twitter.svg" height="30em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/Satendra_Rwt)
+
 [<img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/linkedin.svg" height="30em" align="center" alt="Follow me on LinkedIn" title="Follow on Instagram"/>](https://linkedin.com/in/satendra-sr)
 [<img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/instagram.svg" height="30em" align="center" alt="Follow me on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/sr_satendra)
+[<img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/twitter.svg" height="30em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/Satendra_Rwt)
 
 
 ## Contribution
