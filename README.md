@@ -1,7 +1,7 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/wave.gif" width="30px">
 
 
-## 🔧 Technologies & Tools
+## 🔧 Tools & Technologies
 
 ### Languages
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=30be8d)
@@ -24,6 +24,8 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ffb43b)
 ![](https://img.shields.io/badge/Tools-CICD-informational?style=flat&logo=CICD&logoColor=white&color=ffb43b)
 
+
+## Contribution
 <img align="" height='137px' src="https://github-readme-stats.vercel.app/api?username=satendra-sr&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-sr&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 
