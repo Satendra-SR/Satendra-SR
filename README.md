@@ -1,4 +1,4 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/wave.gif" width="30px">
+## Hello, folks! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="30px">
 
 
 ## 🔧 Tools & Technologies
@@ -25,8 +25,17 @@
 ![](https://img.shields.io/badge/Tools-CICD-informational?style=flat&logo=CICD&logoColor=white&color=ffb43b)
 
 
+## Follow me on social media
+[<img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/twitter.svg" height="30em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/Satendra_Rwt)
+[<img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/linkedin.svg" height="30em" align="center" alt="Follow me on LinkedIn" title="Follow on Instagram"/>](https://linkedin.com/in/satendra-sr)
+[<img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/instagram.svg" height="30em" align="center" alt="Follow me on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/sr_satendra)
+
+
 ## Contribution
-<img align="" height='137px' src="https://github-readme-stats.vercel.app/api?username=satendra-sr&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-sr&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img align="" height='137px' src="https://github-readme-stats.vercel.app/api?username=satendra-sr&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-sr&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+
+
+
 
 
 <!--
