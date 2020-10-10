@@ -7,7 +7,7 @@
 - 📫 How to reach me **satendra@coloredcow.com**
 
 <p align="left">
-<h3 align="left"> <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/handshake.gif" width="30px"> Connect with me:</h3>
+<h3 align="left"> <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/handshake.gif" width="40px"> Connect with me:</h3>
 <a href="https://dev.to/satendrasr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="satendrasr" height="30" width="40" /></a>
 <a href="https://twitter.com/satendra_rwt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="satendra_rwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satendra-sr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satendra-sr" height="30" width="40" /></a>
