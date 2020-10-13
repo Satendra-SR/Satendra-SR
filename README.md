@@ -1,20 +1,32 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="30px"> I'm Satendra
+### Hello, folks! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="20px"> I'm Satendra
 
 - 🌱 I’m currently learning **DevOps, dockerizing applications and GitHub actions**
 
 - 💬 Ask me about **docker, CICD, infrastructure architecture, database schema design**
 
-- 📫 How to reach me **satendra@coloredcow.com**
+- 📫 How to reach me: **satendra@coloredcow.com**
 
-## <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/handshake.gif" width="35px"> Connect with me:
+------
+
+### <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/handshake.gif" width="25px"> Connect with me on:
+
 <p align="left">
-<a href="https://dev.to/satendrasr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="satendrasr" height="30" width="40" /></a>
 <a href="https://twitter.com/satendra_rwt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="satendra_rwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satendra-sr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satendra-sr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9949190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9949190" height="30" width="40" /></a>
 <a href="https://instagram.com/sr_satendra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sr_satendra" height="30" width="40" /></a>
+<a href="https://dev.to/satendrasr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="satendrasr" height="30" width="40" /></a>
 <a href="https://medium.com/@satendrasr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@satendrasr" height="30" width="40" /></a>
 </p>
+
+-----
+
+### :newspaper: Blog Posts
+
+- [Safeguarding healthcare applications](https://coloredcow.com/safeguarding-healthcare-applications/)
+- [Overview: Deploying Glific on AWS ECS fargate with CD in place](https://coloredcow.com/overview-deploying-glific-on-aws-ecs-fargate/)
+- [Github Badges: How it fulfills Glific’s need](https://coloredcow.com/github-badges-how-it-fulfills-glifics-need/)
+- [Continuous integration & deployment for open source project](https://coloredcow.com/continuous-integration-continuous-deployment-for-open-source-project/)
 
 
 <!--
@@ -74,44 +86,6 @@
 ## Contribution
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=satendra-sr&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-sr&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
-
-<!--
-
-
-## 🔧 Tools & Technologies
-
-### Languages
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=30be8d)
-![](https://img.shields.io/badge/Code-codeigniter-informational?style=flat&logo=codeigniter&logoColor=white&color=30be8d)
-![](https://img.shields.io/badge/Code-wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=30be8d)
-![](https://img.shields.io/badge/Code-NestJs-informational?style=flat&logo=nestjs&logoColor=white&color=30be8d)
-![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=reactjs&logoColor=white&color=30be8d)
-![](https://img.shields.io/badge/Code-IOS-informational?style=flat&logo=IOS&logoColor=white&color=30be8d)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=30be8d)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=30be8d)
-
-
-### Database
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=22c8c9)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=22c8c9)
-![](https://img.shields.io/badge/Tools-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=22c8c9)
-
-### DevOps
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=ffb43b)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ffb43b)
-![](https://img.shields.io/badge/Tools-CICD-informational?style=flat&logo=CICD&logoColor=white&color=ffb43b)
-
-
-## Follow me on social media
-
-[<img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/linkedin.svg" height="30em" align="center" alt="Follow me on LinkedIn" title="Follow on Instagram"/>](https://linkedin.com/in/satendra-sr)     [<img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/instagram.svg" height="30em" align="center" alt="Follow me on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/sr_satendra)     [<img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/twitter.svg" height="30em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/Satendra_Rwt)
-
-
--->
-
-
-
-
 
 <!--
 **Satendra-SR/Satendra-SR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
