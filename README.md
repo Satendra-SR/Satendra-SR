@@ -16,6 +16,9 @@
 <a href="https://medium.com/@satendrasr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@satendrasr" height="30" width="40" /></a>
 </p>
 
+
+<!--
+
 ## 🔧 Tools & Technologies
 ### Languages
 <p align="left">
@@ -66,10 +69,11 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
+-->
 
 ## Contribution
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=satendra-sr&show_icons=true&include_all_commits=true&count_private=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-sr&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" alt="Satendra's GitHub Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=satendra-sr&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-sr&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
 
 <!--
 
