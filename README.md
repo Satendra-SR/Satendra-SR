@@ -1,14 +1,9 @@
-### Hello, folks! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="20px"> I'm Satendra
-
+Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> I'm Satendra, a full stack developer at <a href="https://coloredcow.com">ColoredCow</a>. I love automating the process and playing with the infrastructure.
 - 🌱 I’m currently learning **DevOps, dockerizing applications and GitHub actions**
-
 - 💬 Ask me about **docker, CICD, infrastructure architecture, database schema design**
-
 - 📫 How to reach me: **satendra@coloredcow.com**
 
-------
-
-### <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/handshake.gif" width="25px"> Connect with me on:
+You can find more about my work through my social media and blog posts. <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/handshake.gif" width="25px"> Connect with me on
 
 <p align="left">
 <a href="https://twitter.com/satendra_rwt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="satendra_rwt" height="30" width="40" /></a>
@@ -27,6 +22,9 @@
 - [Overview: Deploying Glific on AWS ECS fargate with CD in place](https://coloredcow.com/overview-deploying-glific-on-aws-ecs-fargate/)
 - [Github Badges: How it fulfills Glific’s need](https://coloredcow.com/github-badges-how-it-fulfills-glifics-need/)
 - [Continuous integration & deployment for open source project](https://coloredcow.com/continuous-integration-continuous-deployment-for-open-source-project/)
+
+
+------
 
 ## Contribution
 
