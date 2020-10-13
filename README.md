@@ -26,8 +26,6 @@ You can find more about my work through my social media and blog posts. <img src
 
 ------
 
-## Contribution
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=satendra-sr&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=graywhite&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-sr&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=graywhite" />
 
 <!--
