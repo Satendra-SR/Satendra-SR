@@ -37,7 +37,7 @@ Though I mostly work in private projects, I am also active contributor and maint
 
 <hr/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=satendra-sr&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=graywhite&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-sr&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=graywhite" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=satendra-sr&show_icons=true&count_private=true&line_height=24&theme=graywhite&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-sr&show_icons=true&line_height=30&count_private=true&layout=compact&theme=graywhite" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=satendra-sr.satendra-sr)
 <!--
