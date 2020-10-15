@@ -14,6 +14,8 @@ You can find more about my work through my social media and blog posts. <img src
 <a href="https://medium.com/@satendrasr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@satendrasr" height="30" width="40" /></a>
 </p>
 
+
+
 <hr/>
 
 ### :newspaper: Blog Posts
@@ -30,10 +32,14 @@ Though I mostly work in private projects, I am also active contributor and maint
 - [Laravel GSuite](https://packagist.org/packages/coloredcow/laravel-gsuite) - A composer package to setup Google OAuth and GSuite Admin SDK in Laravel apps
 - [Laravel Audit](https://github.com/Satendra-SR/laravel-audit) - A Laravel package for audit.
 
+
+
+
 <hr/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=satendra-sr&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=graywhite&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-sr&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=graywhite" />
 
+![](https://visitor-badge.glitch.me/badge?page_id=satendra-sr.satendra-sr)
 <!--
 **Satendra-SR/Satendra-SR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
