@@ -20,10 +20,10 @@ You can find more about my work through my social media and blog posts. <img src
 
 ### :newspaper: Blog Posts
 
-- [Safeguarding healthcare applications](https://coloredcow.com/safeguarding-healthcare-applications/)
-- [Overview: Deploying Glific on AWS ECS fargate with CD in place](https://coloredcow.com/overview-deploying-glific-on-aws-ecs-fargate/)
-- [Github Badges: How it fulfills Glific’s need](https://coloredcow.com/github-badges-how-it-fulfills-glifics-need/)
-- [Continuous integration & deployment for open source project](https://coloredcow.com/continuous-integration-continuous-deployment-for-open-source-project/)
+- [Safeguarding healthcare applications](https://coloredcow.com/safeguarding-healthcare-applications?utm_source=github&utm_medium=satendra-sr)
+- [Overview: Deploying Glific on AWS ECS fargate with CD in place](https://coloredcow.com/overview-deploying-glific-on-aws-ecs-fargate?utm_source=github&utm_medium=satendra-sr)
+- [Github Badges: How it fulfills Glific’s need](https://coloredcow.com/github-badges-how-it-fulfills-glifics-need?utm_source=github&utm_medium=satendra-sr)
+- [Continuous integration & deployment for open source project](https://coloredcow.com/continuous-integration-continuous-deployment-for-open-source-project?utm_source=github&utm_medium=satendra-sr)
 
 ### :computer: Work
 Though I mostly work in private projects, I am also active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
