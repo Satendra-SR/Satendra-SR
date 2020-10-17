@@ -1,4 +1,4 @@
-Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> I'm Satendra, a full stack developer at <a href="https://coloredcow.com">ColoredCow</a>. I love automating the process and playing with the infrastructure.
+Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> I'm Satendra, a full stack developer at <a href="https://coloredcow.com?utm_source=github&utm_medium=satendra-sr">ColoredCow</a>. I love automating the process and playing with the infrastructure.
 - 🌱 I’m currently learning **DevOps, dockerizing applications and GitHub actions**
 - 💬 Ask me about **docker, CICD, infrastructure architecture, database schema design**
 - 📫 How to reach me: **satendra@coloredcow.com**
