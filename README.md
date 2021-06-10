@@ -1,6 +1,6 @@
-Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> I'm Satendra, a full stack developer at <a href="https://coloredcow.com?utm_source=github&utm_medium=satendra-sr">ColoredCow</a>. I love automating the process and playing with the infrastructure.
-- 🌱 I’m currently learning **DevOps, dockerizing applications and GitHub actions**
-- 💬 Ask me about **docker, CICD, infrastructure architecture, database schema design**
+Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> I'm Satendra, a full-stack developer at <a href="https://coloredcow.com?utm_source=github&utm_medium=satendra-sr">ColoredCow</a>. I love automating the processes and playing around the Architecture.
+- 🌱 I’m currently exploring different areas such as **DevOps, Dockerization and CICD**
+- 💬 Ask me about **Opensource, Architecture Design and implementations, IVR and Analytics**
 - 📫 How to reach me: **satendra@coloredcow.com**
 
 You can find more about my work through my social media and blog posts. <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/handshake.gif" width="25px"> Connect with me on
@@ -30,11 +30,12 @@ You can find more about my work through my social media and blog posts. <img src
 
 ### :computer: Work
 Though I mostly work in private projects, I am also active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
-- [Glific](https://github.com/glific/glific-frontend) - A two-way communication platform for non-profits using WhatsApp
+- [Glific](https://github.com/glific/glific) - A two-way communication platform for non-profits using WhatsApp
+- [RP IVR Analytics](https://github.com/DostEducation/RP_IVR_analytics) - An open source Rapid pro based analytics system
+- [RP IVR Callback](https://github.com/DostEducation/RP_IVR_callback) - An open source KooKoo based IVR analytics system
 - [Employee Portal](https://github.com/coloredcow/employee-portal) - A hub-and-spoke platform for organization operations
 - [Laravel GSuite](https://packagist.org/packages/coloredcow/laravel-gsuite) - A composer package to setup Google OAuth and GSuite Admin SDK in Laravel apps
 - [Laravel Audit](https://github.com/Satendra-SR/laravel-audit) - A Laravel package for audit.
-
 
 
 
