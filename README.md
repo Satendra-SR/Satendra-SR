@@ -38,6 +38,10 @@ Though I mostly work in private projects, I am also active contributor and maint
 - [Laravel Audit](https://github.com/Satendra-SR/laravel-audit) - A Laravel package for audit.
 
 
+### :mortar_board: I mentor programming!
+Through [CodeTrek](https://coloredcow.com/codetrek/?utm_source=github&utm_medium=satendra-sr), I've started giving sessions on various topics to help out students build their careers in software development. Check out a few sessions:
+- [Continuous Integrations and Deployments](https://coloredcow.com/codetrek-session/continuous-integrations-and-deployments/?utm_source=github&utm_medium=satendra-sr)
+
 
 <hr/>
 
