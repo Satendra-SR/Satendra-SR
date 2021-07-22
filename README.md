@@ -6,7 +6,7 @@ Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/maste
 You can find more about my work through my social media and blog posts. <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/handshake.gif" width="25px"> Connect with me on
 
 <p align="left">
-<a href="https://twitter.com/satendra_rwt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="satendra_rwt" height="30" width="40" /></a>
+<a href="https://twitter.com/ThisIsSatendra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="satendra_rwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satendra-sr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satendra-sr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9949190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9949190" height="30" width="40" /></a>
 <a href="https://instagram.com/sr_satendra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sr_satendra" height="30" width="40" /></a>
