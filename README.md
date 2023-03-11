@@ -1,6 +1,6 @@
 Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="25"> I'm Satendra, Sr Software Engineer at <a href="https://coloredcow.com?utm_source=github&utm_medium=satendra-sr">ColoredCow</a>. I love automating the processes and playing around the infrastructure.
-- 🌱 I’m currently exploring different areas such as **DevOps, Dockerization and CICD**
-- 💬 Ask me about **Opensource, Architecture Design and implementations, IVR and Analytics**
+- 🌱 I’m currently exploring different areas such as **DevOps, Dockerization and CICD with Jenkins and AWS CodePipeline**
+- 💬 Ask me about **Opensource, Software Architecture Design, Automation in software deliveries, IVR systems and Data science**
 - 📫 How to reach me: **satendra@coloredcow.com**
 
 You can find more about my work through my social media and blog posts. <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/handshake.gif" width="30"> Connect with me on
