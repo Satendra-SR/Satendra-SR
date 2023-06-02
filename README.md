@@ -24,6 +24,7 @@ You can find more about my work through my social media and blog posts. <img src
 
 ### :newspaper: Blog Posts
 
+- [Securing Your Web Application – Best Practices](https://coloredcow.com/securing-your-web-application-best-practices/?utm_source=github&utm_medium=satendra-sr)
 - [Grow your business with early projection using data analytics](https://coloredcow.com/grow-your-business-with-early-projection-using-data-analytics/?utm_source=github&utm_medium=satendra-sr)
 - [Safeguarding healthcare applications](https://coloredcow.com/safeguarding-healthcare-applications?utm_source=github&utm_medium=satendra-sr)
 - [Overview: Deploying Glific on AWS ECS fargate with CD in place](https://coloredcow.com/overview-deploying-glific-on-aws-ecs-fargate?utm_source=github&utm_medium=satendra-sr)
