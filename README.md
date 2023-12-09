@@ -14,10 +14,6 @@ You can find more about my work through my social media and blog posts. <img src
 <a href="https://medium.com/@satendrasr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@satendrasr" height="30" width="40" /></a>
 </p>
 
-<br/>
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ThisIsSatendra&layout=wide)](https://twitter.com/ThisIsSatendra)
-
 
 <hr/>
 
